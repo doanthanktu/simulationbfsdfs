@@ -5,7 +5,7 @@ export default class Load10 extends Phaser.Scene {
 
     preload() {
 
-        this.load.spritesheet('gifFrames10', 'assets/images/load-IMG/scene-load/png/load_10.png', {
+        this.load.spritesheet('gifFrames10', 'assets/images/load-IMG/scene-load/png/load_6.png', {
             frameWidth: 720,
             frameHeight: 480,
             endFrame: 42

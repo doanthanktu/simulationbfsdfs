@@ -5,7 +5,7 @@ export default class Load4 extends Phaser.Scene {
 
     preload() {
 
-        this.load.spritesheet('gifFrames4', 'assets/images/load-IMG/scene-load/png/load_4.png', {
+        this.load.spritesheet('gifFrames4', 'assets/images/load-IMG/scene-load/png/load_6.png', {
             frameWidth: 720,
             frameHeight: 480,
             endFrame: 42

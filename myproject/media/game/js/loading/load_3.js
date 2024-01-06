@@ -5,7 +5,7 @@ export default class Load3 extends Phaser.Scene {
 
     preload() {
 
-        this.load.spritesheet('gifFrames3', 'assets/images/load-IMG/scene-load/png/load_3.png', {
+        this.load.spritesheet('gifFrames3', 'assets/images/load-IMG/scene-load/png/load_6.png', {
             frameWidth: 720,
             frameHeight: 480,
             endFrame: 42

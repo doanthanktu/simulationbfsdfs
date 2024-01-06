@@ -6,7 +6,7 @@ export default class GuideScene extends Phaser.Scene {
     preload() {
         this.load.image('map-zero', 'assets/images/map-IMG/IMG-default/map-zero.png');
         this.load.tilemapTiledJSON('map', 'assets/map/map-zero.json');
-        this.load.audio('music1', 'assets/audio/rung.wav');
+        this.load.audio('music1', 'assets/audio/rung.mp3');
         this.load.audio('music2', 'assets/audio/jfla.mp3');
         this.load.audio('music3', 'assets/audio/lofi.mp3');
         this.load.audio('music4', 'assets/audio/remix.mp3');
